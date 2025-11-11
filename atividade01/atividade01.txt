@@ -1,0 +1,58 @@
+7- Quais as diferenças entre os tipos por valor e os tipos por referência ?
+
+Os tipos por valor armazenam o valor diretamente na memoria stack, enquanto os tipos por referencia armazenam um ponteiro que apontam para o valor na memoria heap 
+
+8- Inclua o tipo de dados correto entre os parênteses nas seguintes declarações de variáveis:
+(int) x = 10; 
+(double) numero = 7.99;
+(char ou string) letra = 'C'; 
+(float) temperatura = 27.4f; 
+(bool) ativo = false; 
+(string) nome = "Manoel";
+(float) salario = 950.99m;
+(DateTime) hoje = DateTime.Now;
+
+9- Dada as variáveis declaradas a seguir classifique-as em tipos por valor(V) e tipos por 
+referência (R) :
+(V) int n = 1;
+(R) string titulo = "A vida";
+(V) float f = 12.45f;
+(V) double d = 5.45;
+(V) decimal valor = 10.99m;
+(V) char sexo = 'M';
+(R) object o = null;
+
+10- O que é um nullable type e qual a sua utilidade ?
+Um nullable permite que tipos por valor aceitem valores nulos, representando a ausencia de um valor ( e nao 0). É util quando um valor pode ser indefinido.
+
+11- O que é Camel Case ? Dê um exemplo de sua aplicação.
+Camel case é quando a primeira letra da palavra é minusula e as seguintes começam com maiusculas
+nomeCompleto
+
+12- O que é Pascal Case ? Dê um exemplo de sua aplicação.
+é quando inicia a primeira letra da palavra com letra maiuscula e as outras palavras tambem iniciam com letra maiuscula
+NomeCompleto
+
+
+14- Quais os valores padrões dos tipos de dados bool, char, int, double, float, decimal e 
+string.
+bool false
+char '\0'
+int 0
+double 0.0
+float 0.0f
+decimal 0.0m
+string null
+
+15- Indique verdadeiro(V) ou falso (F) para as seguintes declarações de variáveis 
+considerando a nomenclatura usada:
+(F) double 1valor = 12.45; 
+(F) string #nome = "Pedro"; 
+(V) float _temperatura = 12.45f; 
+(F) double int = 5; 
+(F) decimal renda extra = 91.45m;
+(F) bool status$conta = false;
+(V) string titulo3 = “Tópico 1”; 
+(V) float salario_mensal = 1999.55f;
+(V) int percentualValorDesconto = 5;
+(V) const bool MENSALIDADE_EM_DIA = true
