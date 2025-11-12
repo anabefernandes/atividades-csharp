@@ -4,12 +4,12 @@ Repositório criado para armazenar as atividades práticas realizadas durante o 
 Com o objetivo de registrar o aprendizado e evolução ao longo do curso.
 
 ## Estrutura do Repositório
-atividades-csharp/
-atividade01/ # Exercícios introdutórios - variáveis, tipos e operadores
-atividade02/ # Estruturas de decisão e laços de repetição
-ClassesMetodos/ # Atividades do módulo de Classes e Métodos
-atividade01.sln # Solução principal do projeto
-.gitignore
+- atividades-csharp/
+- atividade01/ # Exercícios introdutórios - variáveis, tipos e operadores
+- atividade02/ # Estruturas de decisão e laços de repetição
+- ClassesMetodos/ # Atividades do módulo de Classes e Métodos
+- atividade01.sln # Solução principal do projeto
+- .gitignore
 
 ## Conteúdo do Curso
 
