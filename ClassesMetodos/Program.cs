@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("Métodos - Parametros");
+//sem construtores
 
 Aluno aluno = new();
 aluno.Consultar();
